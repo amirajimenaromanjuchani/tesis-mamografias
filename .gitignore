@@ -1,0 +1,22 @@
+# Datos (no subir a GitHub)
+data/
+splits/
+results/checkpoints/
+results/logs/
+*.pth
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Entorno
+.env
+venv/
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
